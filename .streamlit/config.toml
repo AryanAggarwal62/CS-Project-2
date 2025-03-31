@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#00A8A8"
+backgroundColor="#2F3136"       # A soft dark (like Discord)
+secondaryBackgroundColor="#23272A"
+textColor="#FFFFFF"
+font="sans serif"
