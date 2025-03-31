@@ -51,19 +51,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.file filter(unnecessary now).executor": "Run",
-    "Python.file filter.executor": "Run",
-    "Python.file parsing.executor": "Run",
-    "Python.file_parsing.executor": "Run",
-    "Python.generate_graph.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.ui.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/sujoydas/Documents/GitHub/CS-Project-2/xbox"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.file filter(unnecessary now).executor&quot;: &quot;Run&quot;,
+    &quot;Python.file filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file parsing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_parsing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generate_graph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ui.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sujoydas/Documents/GitHub/CS-Project-2/xbox&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/xbox" />
