@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="326d2c8d-6d40-42e1-a08a-369722a10440" name="Changes" comment="graph generation" />
+    <list default="true" id="326d2c8d-6d40-42e1-a08a-369722a10440" name="Changes" comment="graph generation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,31 +53,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.file filter(unnecessary now).executor&quot;: &quot;Run&quot;,
-    &quot;Python.file filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file parsing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_parsing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generate_graph.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ui.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/sujoydas/Documents/GitHub/CS-Project-2/xbox&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.file filter(unnecessary now).executor": "Debug",
+    "Python.file filter.executor": "Run",
+    "Python.file parsing.executor": "Run",
+    "Python.file_parsing.executor": "Run",
+    "Python.generate_graph.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.ui.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/sujoydas/PycharmProjects/CS-Project-2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/xbox" />
       <recent name="$PROJECT_DIR$/steam" />
       <recent name="$PROJECT_DIR$/playstation" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ui">
+  <component name="RunManager" selected="Python.file filter(unnecessary now)">
+    <configuration name="file filter(unnecessary now)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file filter(unnecessary now).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="generate_graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS-Project-2" />
       <option name="ENV_FILES" value="" />
@@ -124,6 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.file filter(unnecessary now)" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.ui" />
         <item itemvalue="Python.generate_graph" />
       </list>
@@ -249,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743373744526</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="graph generation">
+      <option name="closed" value="true" />
+      <created>1743379380250</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1743379380250</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="UnknownFeatures">
